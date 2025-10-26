@@ -1,0 +1,125 @@
+# Flutter
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/engine/Flutter.framework
+**/ios/Flutter/engine/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+**/macos/Flutter/Flutter.framework
+**/macos/Flutter/engine/Flutter.framework
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+**/macos/Flutter/ephemeral/
+**/linux/Flutter/ephemeral/
+**/windows/Flutter/ephemeral/
+**/web/Flutter/ephemeral/
+**/build/
+**/coverage/
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# Android
+**/android/app/src/main/gen/
+**/android/app/src/main/assets/flutter_assets/
+**/android/gradle/
+**/android/.gradle/
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+
+# iOS
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/engine/Flutter.framework
+**/ios/Flutter/engine/Flutter.podspec
+**/ios/Flutter/App.framework
+**/ios/Flutter/.last_build_id
+
+# macOS
+**/macos/Flutter/Flutter.framework
+**/macos/Flutter/engine/Flutter.framework
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+**/macos/Flutter/ephemeral/
+
+# Linux
+**/linux/Flutter/ephemeral/
+
+# Windows
+**/windows/Flutter/ephemeral/
+
+# Web
+**/web/Flutter/ephemeral/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage
+coverage/
+
+# Test
+test/coverage/
+
+# Pub
+.pub/
+.pub-cache/
+
+# Build artifacts
+build/
+
+# Symbolication
+app.*.symbols
+
+# Obfuscation
+app.*.map.json
+
+# Miscellaneous
+*.class
+*.pyc
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+
+# Atom
+.atom/
+
+# Build log
+.buildlog/

@@ -1,0 +1,13 @@
+{
+  "@@locale": "vi",
+  "appTitle": "theWeather",
+  "homeTitle": "Thời tiết hôm nay",
+  "retry": "Thử lại",
+  "errorTitle": "Đã xảy ra lỗi",
+  "selectLocation": "Chọn địa điểm",
+  "lastUpdated": "Cập nhật {minutes} phút trước",
+  "seeDetails": "Xem chi tiết",
+  "aqi": "Chất lượng không khí",
+  "hourlyToday": "Theo giờ hôm nay",
+  "daily7": "Dự báo 7 ngày"
+}

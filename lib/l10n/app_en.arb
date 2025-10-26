@@ -1,0 +1,13 @@
+{
+  "@@locale": "en",
+  "appTitle": "theWeather",
+  "homeTitle": "Today's Weather",
+  "retry": "Retry",
+  "errorTitle": "An error occurred",
+  "selectLocation": "Select Location",
+  "lastUpdated": "Last updated {minutes} minutes ago",
+  "seeDetails": "See details",
+  "aqi": "Air Quality Index",
+  "hourlyToday": "Hourly Forecast",
+  "daily7": "7-Day Forecast"
+}
